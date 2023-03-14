@@ -1,2 +1,2 @@
 #!/bin/bash
-echo ${Name=Best Value=School}
+echo {Name=BEST Value=School}
